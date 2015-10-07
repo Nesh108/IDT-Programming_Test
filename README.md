@@ -1,4 +1,4 @@
-# IDT-Programming_Test
+# IDT Programming Test
 Programming test taken for Full-Stack Developer at IDT Messaging, Helsinki (Finland).
 
 To be completed within 24 hours.
