@@ -1,0 +1,17 @@
+== API Routes ==
+
+/
+  GET: Welcome message
+
+---------------------------------
+
+/user/:id
+  GET: Get specific user
+  PUT: Update name of user
+
+---------------------------------
+
+/user/:name
+  POST: Create new user with specified name
+
+---------------------------------

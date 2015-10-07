@@ -1,0 +1,11 @@
+= INSTALL =
+
+Make sure nodejs and npm are installed on the machine.
+
+Run the following commands:
+
+- npm install
+
+- node server.js
+
+Fire up your favourite browser (which is Chrome, we all know) and connect to http://localhost:8080.
